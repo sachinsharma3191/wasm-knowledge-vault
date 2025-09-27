@@ -1,0 +1,1 @@
+export type SearchHit = { doc_id: string; score: number };

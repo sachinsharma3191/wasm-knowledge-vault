@@ -1,0 +1,1 @@
+/Users/sachinsharma/Programming/WASM\ AND\ JS/knowledge-vault/wasm/target/wasm32-unknown-unknown/release/kv_index.wasm: /Users/sachinsharma/Programming/WASM\ AND\ JS/knowledge-vault/wasm/kv_index/src/lib.rs
