@@ -35,4 +35,4 @@ export function getDoc(docId: string): string | null {
 export function clear() {
     if (!_kv) throw new Error('KV not ready')
     _kv.clear()
-}
+}    
